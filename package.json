@@ -1,0 +1,25 @@
+{
+  "name": "hardhat-testing",
+  "version": "1.0.0",
+  "description": "Learning Testing with Hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hardhat",
+    "Testing",
+    "web3",
+    "smart",
+    "contract",
+    "testing"
+  ],
+  "author": "moayaan.eth",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
